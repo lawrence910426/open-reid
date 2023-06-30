@@ -26,3 +26,6 @@ This is just a quick example. VIPeR dataset may not be large enough to train a d
 
 Check about more [examples](https://cysu.github.io/open-reid/examples/training_id.html)
 and [benchmarks](https://cysu.github.io/open-reid/examples/benchmarks.html).
+
+# Training data for vehicles
+[Dataset](https://www.dropbox.com/s/cg1etrs22y2xb62/VeRi_CARLA_dataset.zip?dl=0) from VR
